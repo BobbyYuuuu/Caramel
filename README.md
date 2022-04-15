@@ -1,7 +1,7 @@
 **Introduction to log into ieng6 account**
 
 
-[Link to HomePage](index.md)
+[Link to HomePage](https://bobbyyuuuu.github.io/Caramel/index.html)
 
 
 1. First you will need to download VScode, goto the VScode website and download it. After downloading VScode, you will also need to download the java packages.
