@@ -1,3 +1,3 @@
 Lab report number 1 Home Page
 
-[Link to Lab report](README.md)
+[Link to Lab report](https://bobbyyuuuu.github.io/Caramel/README.html)
