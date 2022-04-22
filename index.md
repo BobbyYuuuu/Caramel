@@ -1,6 +1,6 @@
 ## Lab Report Home Page
 
-** Link to Lab Reports
+**Link to Lab Reports
 
 [Link to Lab report 1](https://github.com/BobbyYuuuu/Caramel/blob/main/lapreport1/Labrep1.md)
 
