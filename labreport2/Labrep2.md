@@ -1,4 +1,4 @@
-**Lab report 2**
+**Lab Report 2**
 
 [Link to HomePage](https://bobbyyuuuu.github.io/Caramel/index.html)
 
@@ -29,3 +29,10 @@ would still print out what is in the parenthesis because it does not know that i
 
 ## Code change 3
 
+![Code change 3](codeChange3.png)
+
+[Link to test file that caused error](https://github.com/BobbyYuuuu/markdown-parser/blob/main/test-4.md)
+
+For this test case, we tried to put another parenthesis inside a parenthesis, which caused an error because the code will automatically stop when the first close parenthesis is reached, so we have to rewrite our code so that it will keep on going until the correct parenthesis is reached.
+
+![Error 3](Error3.png)
