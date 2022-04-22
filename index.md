@@ -1,6 +1,6 @@
 ## Lab Report Home Page
 
-**Link to Lab Reports
+Link to Lab Reports:
 
 [Link to Lab report 1](Labrep1.html)
 
