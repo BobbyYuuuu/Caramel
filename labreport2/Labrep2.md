@@ -18,7 +18,7 @@ of [google.com] (google.com). So it is causing an index out of bounds because it
 ![Code change 2](Codechange2.png)
 
 
-[Link to test file that caused error](https://github.com/BobbyYuuuu/markdown-parser/blob/main/test-.md)
+[Link to test file that caused error](https://github.com/BobbyYuuuu/markdown-parser/blob/main/test-3.md)
 
 For this case, it was not suppose to print anything because they are missing a open and close brackets, the input was just (google) instead 
 of [google.com] (google.com). The problem with this input is that because it is missing a bracket, which is not in a website format, but the method
