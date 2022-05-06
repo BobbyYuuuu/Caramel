@@ -17,8 +17,12 @@ You are also able to use your alias to make copies to the server!
 
 - Copy whole directories with scp -r
 
-Instead of performing scp on a certain file, if you do -r, it will make a copy of everything in the directory 
+Instead of performing scp on a certain file, if you do -r, it will make a copy of everything in the directory. 
 ![Step 1](labrep34.png)
 
-After this step, you should be able to compile and run your tests on your ieng6 account
+After this step, you should be able to compile and run your tests on your ieng6 account.
 ![Step 2](labrep37.png)
+
+Moreover, you can make a copy and ssh, and compiling and running your file in the same command!
+![Step 1](labrep38.png)
+![Step 1](labrep39.png)
