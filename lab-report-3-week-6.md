@@ -1,4 +1,4 @@
-**Lab Report 2**
+**Lab Report 3**
 
 [Link to HomePage](https://bobbyyuuuu.github.io/Caramel/index.html)
 
