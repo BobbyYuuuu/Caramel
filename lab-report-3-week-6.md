@@ -15,6 +15,8 @@ You are also able to use your alias to make copies to the server!
 
 - Setup Github Access from ieng6
 
+After storing your public key in github, you should see the following in your page.
+![Step1](labrep41.png)
 - Copy whole directories with scp -r
 
 Instead of performing scp on a certain file, if you do -r, it will make a copy of everything in the directory. 
