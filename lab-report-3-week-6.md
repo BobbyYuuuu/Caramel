@@ -25,6 +25,7 @@
 ![Step3](Labrep3re1.png)
 
 [Link to commit](https://github.com/BobbyYuuuu/markdown-parser/commit/0f1cee449caf0cdedff2368e44f734ad407dd40b)
+![Step4](Labrep3re3.png)
 
 ## Copy whole directories with scp -r ##
 
