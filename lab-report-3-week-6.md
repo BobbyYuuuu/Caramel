@@ -19,10 +19,10 @@
 ![Step1](labrep341.png)
 
 - In your own computer, you should see the file containing the private key.
-![Step2](Labrep3re1.png)
+![Step2](Labrep3re2.png)
 
 - You can also perform git commands such as commit, add, and push in your terminal.
-![Step3](labrep3re2.png)
+![Step3](Labrep3re1.png)
 
 [Link to commit](https://github.com/BobbyYuuuu/markdown-parser/commit/0f1cee449caf0cdedff2368e44f734ad407dd40b)
 
