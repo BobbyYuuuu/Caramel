@@ -10,5 +10,5 @@ Link to Lab Reports:
 
 [Lab report 4](Labrep4.html)
 
-[Lab report 4](Labrep5.html)
+[Lab report 5](Labrep5.html)
 
