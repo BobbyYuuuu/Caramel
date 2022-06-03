@@ -40,4 +40,6 @@ Test-file/201.md:
 
 With the preview, we can see that my implementation of the MarkdownParse is able to print both of the test case out correctly, and the Lab9 version of the MarkdownParse is not printing out the expected output.
 
-As we can see in the preview for 288.md, the lab9 version of the MarkdownParse is still printing what is in the parentheses while there is something between the close bracket and the open parenthese. What is causing that error is because the lab9 version of the MarkdownParse does not have a code that detects if the next character after the closebracket is a openparentheses, in other words, it will still print out what is inside the parentheses when it is not suppose to. In order to fix this bug, we just need to add a line that checks if the next character after the closebracket is a openparenthese or not.
+As we can see in the preview for 288.md, the lab9 version of the MarkdownParse is still printing what is in the parentheses while there is something between the close bracket and the open parenthese. What is causing that error is because the lab9 version of the MarkdownParse does not have a code that detects if the next character after the closebracket is a openparentheses, in other words, it will still print out what is inside the parentheses when it is not suppose to. In order to fix this bug, we just need to add a line that checks if the next character after the closebracket is a openparenthese or not in the highlighted area.
+
+![2](labrep511.png)
